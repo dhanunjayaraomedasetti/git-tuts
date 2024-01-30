@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+This is an Exampleeeee - dev
+=======
 This is an Exampleeeee
+>>>>>>> origin/master
